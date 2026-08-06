@@ -1,0 +1,2 @@
+hello, this is a side gig i did when i was bored. i try to make a repository about tutorial about using GIT.
+its quite easy when you get a hold of it (which is anything shall be easy once we get a hold of it), so here what you need to know :
